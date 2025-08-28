@@ -74,3 +74,8 @@ The notebook includes charts such as:
 - Provide premium loyalty offers to high-income groups.
 - Bundle products with fitness programs to encourage frequent usage.
 - Use segmented ads targeting demographics by age, gender, and income.
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
