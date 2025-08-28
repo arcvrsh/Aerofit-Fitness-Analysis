@@ -68,3 +68,9 @@ The notebook includes charts such as:
    ```bash
    jupyter notebook Aerofit_Analysis.ipynb
 
+## Business Recommendations
+
+- Focus marketing campaigns for entry-level products on younger professionals with moderate income.
+- Provide premium loyalty offers to high-income groups.
+- Bundle products with fitness programs to encourage frequent usage.
+- Use segmented ads targeting demographics by age, gender, and income.
