@@ -6,6 +6,17 @@ The goal is to derive **business insights** that can help Aerofit improve its **
 
 ---
 
+## Problem Statement
+
+Aerofit, a fitness equipment manufacturer, wants to analyze customer profiles and product purchase behavior.
+The objective is to identify:
+
+- Which demographic groups prefer which products.
+
+- How income, age, gender, and marital status affect buying decisions.
+
+- What strategies can increase sales and customer satisfaction.
+
 ## 📂 Dataset  
 The dataset contains customer and product details such as:  
 - Customer demographics (Age, Gender, Education, Marital Status, Income).  
